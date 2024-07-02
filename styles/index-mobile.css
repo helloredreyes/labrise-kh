@@ -176,11 +176,12 @@ header nav a {
   }
   .airbnb h4{
     font-size: 20pt;
-    letter-spacing: 1.5rem;
+    letter-spacing: 5pt;
     font-weight: 600;
     padding:0;
     margin:0;
     color: #817AD8;
+    text-align: right;
   }
   .airbnb p{
     padding-left: 0%;
