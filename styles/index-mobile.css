@@ -244,7 +244,7 @@ header nav a {
     display: flex;
     max-width: 100%;
     flex-direction: columns;
-    padding:0;
+    padding:20px 0;
     margin:0; 
   }
   .intheheart h5{
@@ -277,16 +277,16 @@ header nav a {
   }
   
   #column-one {
-    max-width: 35%;
+    max-width: 25%;
   }
   
   #column-two {
-    max-width: 30%;
-    row-gap: 10px;;
+    max-width: 50%;
+    row-gap: 5px;
   }
   
   #column-three {
-    max-width: 40%;
+    max-width: 25%;
   }
   
   .gallery img {
@@ -313,7 +313,7 @@ header nav a {
     display: flex;
     max-width: 50%;
     flex-direction: column;
-    column-gap:20px;
+    column-gap:0px;
     justify-content: center;
     align-content: center;
     align-items: center;
